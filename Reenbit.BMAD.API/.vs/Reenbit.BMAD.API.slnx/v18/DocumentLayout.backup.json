@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7E6326-B1D5-7F25-9EB0-D3D99FFFEBCC}|Reenbit.BMAD.API\\Reenbit.BMAD.API.csproj|c:\\users\\markiian.shchuplyak\\source\\repos\\reenbit.bmad.api\\reenbit.bmad.api\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7E6326-B1D5-7F25-9EB0-D3D99FFFEBCC}|Reenbit.BMAD.API\\Reenbit.BMAD.API.csproj|solutionrelative:reenbit.bmad.api\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7E6326-B1D5-7F25-9EB0-D3D99FFFEBCC}|Reenbit.BMAD.API\\Reenbit.BMAD.API.csproj|c:\\users\\markiian.shchuplyak\\source\\repos\\reenbit.bmad.api\\reenbit.bmad.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB7E6326-B1D5-7F25-9EB0-D3D99FFFEBCC}|Reenbit.BMAD.API\\Reenbit.BMAD.API.csproj|solutionrelative:reenbit.bmad.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7E6326-B1D5-7F25-9EB0-D3D99FFFEBCC}|Reenbit.BMAD.API\\Reenbit.BMAD.API.csproj|c:\\users\\markiian.shchuplyak\\source\\repos\\reenbit.bmad.api\\reenbit.bmad.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB7E6326-B1D5-7F25-9EB0-D3D99FFFEBCC}|Reenbit.BMAD.API\\Reenbit.BMAD.API.csproj|solutionrelative:reenbit.bmad.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6176195F-409F-5386-55A7-D4E368DCAD2C}|Reenbit.BMAD.Sql\\Reenbit.BMAD.Sql.csproj|c:\\users\\markiian.shchuplyak\\source\\repos\\reenbit.bmad.api\\reenbit.bmad.sql\\dataaccess\\events\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6176195F-409F-5386-55A7-D4E368DCAD2C}|Reenbit.BMAD.Sql\\Reenbit.BMAD.Sql.csproj|solutionrelative:reenbit.bmad.sql\\dataaccess\\events\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5E28EA-569D-6A86-6916-E01EFE44F851}|Reenbit.BMAD.Core\\Reenbit.BMAD.Core.csproj|c:\\users\\markiian.shchuplyak\\source\\repos\\reenbit.bmad.api\\reenbit.bmad.core\\entities\\events\\eventsinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5E28EA-569D-6A86-6916-E01EFE44F851}|Reenbit.BMAD.Core\\Reenbit.BMAD.Core.csproj|solutionrelative:reenbit.bmad.core\\entities\\events\\eventsinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.API\\Extensions\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "Reenbit.BMAD.API\\Extensions\\HostingExtensions.cs",
+              "ToolTip": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.API\\Extensions\\HostingExtensions.cs",
+              "RelativeToolTip": "Reenbit.BMAD.API\\Extensions\\HostingExtensions.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:47:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Reenbit.BMAD.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.API\\appsettings.Development.json",
+              "RelativeToolTip": "Reenbit.BMAD.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T13:45:49.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Reenbit.BMAD.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Reenbit.BMAD.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T13:44:36.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.Sql\\DataAccess\\Events\\EventsRepository.cs",
+              "RelativeDocumentMoniker": "Reenbit.BMAD.Sql\\DataAccess\\Events\\EventsRepository.cs",
+              "ToolTip": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.Sql\\DataAccess\\Events\\EventsRepository.cs",
+              "RelativeToolTip": "Reenbit.BMAD.Sql\\DataAccess\\Events\\EventsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:21:37.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventsInteractor.cs",
+              "DocumentMoniker": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.Core\\Entities\\Events\\EventsInteractor.cs",
+              "RelativeDocumentMoniker": "Reenbit.BMAD.Core\\Entities\\Events\\EventsInteractor.cs",
+              "ToolTip": "C:\\Users\\markiian.shchuplyak\\source\\repos\\Reenbit.BMAD.API\\Reenbit.BMAD.Core\\Entities\\Events\\EventsInteractor.cs",
+              "RelativeToolTip": "Reenbit.BMAD.Core\\Entities\\Events\\EventsInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:20:59.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

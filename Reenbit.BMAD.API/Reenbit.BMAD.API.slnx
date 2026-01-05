@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Infrastructure/" />
+  <Folder Name="/Infrastructure/Internal/">
+    <Project Path="Reenbit.BMAD.ServiceBus/Reenbit.BMAD.ServiceBus.csproj" Id="1e9266fc-135a-412b-9f61-1c063fe770b7" />
+    <Project Path="Reenbit.BMAD.Sql/Reenbit.BMAD.Sql.csproj" />
+  </Folder>
+  <Project Path="Reenbit.BMAD.API/Reenbit.BMAD.API.csproj" />
+  <Project Path="Reenbit.BMAD.AppHost/Reenbit.BMAD.AppHost.csproj" Id="58b8c33d-2cb2-459c-80e9-82bc68cd0770" />
+  <Project Path="Reenbit.BMAD.Core/Reenbit.BMAD.Core.csproj" />
+  <Project Path="Reenbit.BMAD.Domain/Reenbit.BMAD.Domain.csproj" />
+  <Project Path="Reenbit.BMAD.FunctionApp/Reenbit.BMAD.FunctionApp.csproj" />
+</Solution>

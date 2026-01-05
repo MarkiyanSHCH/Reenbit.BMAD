@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Reenbit.BMAD.FunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7238",
+      "launchBrowser": false
+    }
+  }
+}

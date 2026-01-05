@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.20.1" />
+    <PackageReference Include="Serilog.AspNetCore" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Reenbit.BMAD.Core\Reenbit.BMAD.Core.csproj" />
+    <ProjectReference Include="..\Reenbit.BMAD.Domain\Reenbit.BMAD.Domain.csproj" />
+    <ProjectReference Include="..\Reenbit.BMAD.ServiceBus\Reenbit.BMAD.ServiceBus.csproj" />
+    <ProjectReference Include="..\Reenbit.BMAD.Sql\Reenbit.BMAD.Sql.csproj" />
+  </ItemGroup>
+
+</Project>
