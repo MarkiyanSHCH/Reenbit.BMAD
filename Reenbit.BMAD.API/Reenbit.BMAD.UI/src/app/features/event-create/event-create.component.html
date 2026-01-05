@@ -1,0 +1,27 @@
+<h2>Create Event</h2>
+
+<!-- Можеш показати readonly для дебагу або взагалі прибрати -->
+<p style="opacity:0.7; font-size: 12px;">Session userId: {{ userId }}</p>
+
+<p style="color: #b00020" *ngIf="error">{{ error }}</p>
+
+<form [formGroup]="form" (ngSubmit)="submit()" style="max-width: 520px; display: grid; gap: 12px;">
+  <label>
+    <div>Type</div>
+    <select formControlName="type">
+      <option *ngFor="let t of types" [ngValue]="t.value">{{ t.label }}</option>
+    </select>
+  </label>
+
+  <label>
+    <div>Description</div>
+    <textarea formControlName="description" rows="4"></textarea>
+  </label>
+
+  <div style="display:flex; gap: 8px;">
+    <button type="submit" [disabled]="isSubmitting">
+      {{ isSubmitting ? 'Saving...' : 'Create' }}
+    </button>
+    <a routerLink="/events">Back</a>
+  </div>
+</form>
